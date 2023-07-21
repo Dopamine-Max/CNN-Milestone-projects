@@ -1,5 +1,5 @@
 # CNN-Milestone-projects
-First CNN projects done after learning about them.
+First CNN projects done after learning about them. Open the files in Colab from the link at the top to view the results.
 
 __#1 Cifar10 Classification:__
 A CNN that studies the Cifar10 dataset and classifies the images into its respective 10 categories with around 80% accuracy. <br>
