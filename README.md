@@ -8,5 +8,8 @@ A CNN that encodes the images in the Cifar10 dataset with minimal loss in legibi
 __#3 FMNIST:__ 
 A CNN that studies the Fashion MNIST dataset and classifies the images into the 10 categories of fashion items available with 90% accuracy. <br>
 __#4 Psychometric Functions:__
-A CNN that studies generated horizontal/vertical lines on gaussian noise than classifies lines generated with a slope of -30 to 30 into the categories of horizontal / vertical.
+A CNN that studies generated horizontal/vertical lines on gaussian noise than classifies lines generated with a slope of -30 to 30 into the categories of horizontal / vertical. <br>
+__#4 Style Transfer VGG19__
+Using the pretrained Vgg19 model to display style transfer from a Vincent Van Gogh painting to the picture of Stedelijk Museum in Amsterdam.
+
 
